@@ -1,4 +1,6 @@
 # hse_hw2_chip
+## Colab
+https://colab.research.google.com/drive/1DVs3IuvhRkZq4FTMPG8eCxxQ9seR0yqO?usp=sharing
 ## Анализ выдачи fastqc
 ### ENCFF001EXM
 ![2023-03-01_11-13-10](https://user-images.githubusercontent.com/87602071/222082022-8e22cc97-a7e7-466a-9ff2-60971bc97d78.png)
