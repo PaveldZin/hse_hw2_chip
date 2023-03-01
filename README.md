@@ -9,7 +9,7 @@
 ![2023-03-01_11-17-08](https://user-images.githubusercontent.com/87602071/222082908-31d9af17-569b-464b-a403-99526980b065.png)
 ![2023-03-01_11-17-34](https://user-images.githubusercontent.com/87602071/222082915-e3e3b40b-439b-4f32-a1cf-32a36d6c820a.png)
 
-Качество довольно плохое, произведем фильтрацию и подрезание
+Качество довольно плохое, произведем фильтрацию и подрезание c помощью trimmomatic
 ### ENCFF000ASV trimmed
 ![2023-03-01_11-26-21](https://user-images.githubusercontent.com/87602071/222084685-248c3c08-bf15-4799-a8fe-68179e189f8c.png)
 ![2023-03-01_11-26-37](https://user-images.githubusercontent.com/87602071/222084693-3179762a-d172-4f53-8705-5f303e11445d.png)
